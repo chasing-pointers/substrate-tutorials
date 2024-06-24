@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/exercises/ex00-testing/flipper/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/ex01-pallet-easy/assets/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/ex03-pallet-intermediate/nft/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/ex04-pallet-coupling/loosely-coupled-marketplace/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/ex04-pallet-coupling/marketplace-nfts/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/ex04-pallet-coupling/tightly-coupled-marketplace/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/ex05-hooks/reminder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/ex06-weights/weights/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/ex07-imbalances/imbalances/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/ex08-genesis-config/nft-with-genesis-config/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/ex09-mock/pallet-to-mock/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/ex10-offchain-worker/pallet-price-oracle/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
